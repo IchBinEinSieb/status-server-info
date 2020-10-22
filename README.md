@@ -49,5 +49,4 @@ Then choose "Notifications"
 Then "Until I turn it back on"
 <br />
 <img src="https://media.discordapp.net/attachments/642839321652494338/768861633329233950/image2.png" alt="drawing" width="200"/><br />
-<br />
 Done!
