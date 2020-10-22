@@ -41,9 +41,15 @@ Done!
 
 ### On Mobile
 Right click on the #status channel swipe left to the Member List
+------------
 <img src="https://media.discordapp.net/attachments/642839321652494338/768861632440172559/image0.png" alt="drawing" width="200"/>
+------------
 Then choose "Notifications"
+------------
 <img src="https://media.discordapp.net/attachments/642839321652494338/768861633048084510/image1.png" alt="drawing" width="200"/>
+------------
 Then "Until I turn it back on"
+------------
 <img src="https://media.discordapp.net/attachments/642839321652494338/768861633329233950/image2.png" alt="drawing" width="200"/>
+------------
 Done!
